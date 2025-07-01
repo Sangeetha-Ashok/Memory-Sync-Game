@@ -1,0 +1,21 @@
+Move 1: 0,0 & 0,1 -> Mismatch (Time: 12.875s)
+Move 2: 0,2 & 0,3 -> Match (Time: 34.212s)
+Move 1: 0,0 & 0,1 -> Mismatch (Time: 15.871s)
+Move 2: 0,2 & 0,3 -> Mismatch (Time: 25.592s)
+Move 1: 0,0 & 0,1 -> Mismatch (Time: 6.898s)
+Move 2: 0,2 & 0,3 -> Mismatch (Time: 15.079s)
+Move 3: 1,0 & 1,1 -> Mismatch (Time: 24.094s)
+Move 4: 1,2 & 1,3 -> Mismatch (Time: 34.59s)
+Move 5: 0,3 & 1,3 -> Match (Time: 51.51s)
+Move 6: 2,0 & 2,1 -> Mismatch (Time: 86.272s)
+Move 7: 1,2 & 2,1 -> Match (Time: 99.96s)
+Move 8: 2,2 & 1,0 -> Match (Time: 121.947s)
+Move 9: 2,3 & 2,0 -> Match (Time: 146.679s)
+Move 10: 3,0 & 0,2 -> Match (Time: 163.109s)
+Move 11: 3,1 & 1,1 -> Match (Time: 193.616s)
+Move 12: 3,2 & 0,1 -> Match (Time: 208.131s)
+Move 13: 0,0 & 3,3 -> Match (Time: 217.13s)
+Player: San
+Total Moves: 13, Correct: 8, Wrong: 5
+Total Time: 217.13 seconds
+--------------------------------------------------
